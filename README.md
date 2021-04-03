@@ -54,6 +54,7 @@ Additionally there is a highscore for singleplayer, which is saved in a SharedPr
 ### Highscore:
 <img src="/Screenshots/Highscore.png" height="400">
 
+<p> &nbsp </p>
 
 ### StartScreen:
 <img src="/Screenshots/StartScreen.png" height="400">
