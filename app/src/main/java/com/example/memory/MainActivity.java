@@ -272,7 +272,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_11_easy,theCard);
                 }
@@ -282,7 +281,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_12_easy,theCard);
                 }
@@ -292,7 +290,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_13_easy,theCard);
 
@@ -304,7 +301,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_21_easy,theCard);
 
@@ -315,7 +311,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_22_easy,theCard);
 
@@ -326,7 +321,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_23_easy,theCard);
 
@@ -368,7 +362,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(image_11_intermediate,theCard);
                 }
@@ -378,7 +371,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_12_intermediate,theCard);
                 }
@@ -388,7 +380,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_13_intermediate,theCard);
 
@@ -412,7 +403,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_21_intermediate,theCard);
 
@@ -423,7 +413,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_22_intermediate,theCard);
 
@@ -434,7 +423,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
                     doStuff(iv_23_intermediate,theCard);
 
@@ -535,9 +523,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_11_difficult,theCard);
                 }
             });
@@ -546,9 +532,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_12_difficult,theCard);
                 }
             });
@@ -557,9 +541,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_13_difficult,theCard);
 
                 }
@@ -571,7 +553,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_14_difficult,theCard);
 
                 }
@@ -583,9 +564,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_21_difficult,theCard);
 
                 }
@@ -595,9 +574,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_22_difficult,theCard);
 
                 }
@@ -607,9 +584,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("On Click listener aktiviert");
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_23_difficult,theCard);
 
                 }
@@ -621,7 +596,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_24_difficult,theCard);
 
                 }
@@ -633,7 +607,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_31_difficult,theCard);
 
                 }
@@ -644,7 +617,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_32_difficult,theCard);
 
                 }
@@ -655,7 +627,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_33_difficult,theCard);
 
                 }
@@ -666,7 +637,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_34_difficult,theCard);
 
                 }
@@ -678,7 +648,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_41_difficult,theCard);
 
                 }
@@ -689,7 +658,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_42_difficult,theCard);
 
                 }
@@ -700,7 +668,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_43_difficult,theCard);
 
                 }
@@ -710,10 +677,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onClick(View v) {
-                    System.out.println("iv44");
-
                     int theCard = Integer.parseInt((String) v.getTag());
-                    System.out.println("Tag: " + theCard);
                     doStuff(iv_44_difficult,theCard);
 
                 }
@@ -884,8 +848,6 @@ public class MainActivity extends AppCompatActivity {
 
         if(flag_difficulty==3){
 
-            System.out.println("Do Stuff aktiviert");
-            System.out.println("Cards Array" +cardsArray_difficult[card]);
                 if(cardsArray_difficult[card] == 101){ // hier wird der Tag mit den gemischten NUmmern abgeglichen, so dass herausgefunden werden
                     //kann, welches Bild sich hier gerade befindet
                     iv.setImageResource(image101);
@@ -1351,10 +1313,6 @@ public class MainActivity extends AppCompatActivity {
                     iv_22_easy.getVisibility() == View.INVISIBLE &&
                     iv_23_easy.getVisibility() == View.INVISIBLE){
 
-                System.out.println("If klappt");
-                System.out.println("flag player: " + flag_player + cpuPoints + playerPoints);
-
-
                 isHighscore = checkIfHighscore();
                 int first = StartScreen.firstPlace;
                 int second = StartScreen.secondPlace;
@@ -1369,7 +1327,6 @@ public class MainActivity extends AppCompatActivity {
 
 
                 if(flag_player==2){
-                    System.out.println("flag player wird ausgeführt");
                     alertDialogBuilder.setMessage("GAME OVER\nP1: " + playerPoints + " \nP2: " +cpuPoints + "\n\nHighscore: \n1: " +first + "\n2: " + second + "\n3: "+ third);
                 }
                else{
@@ -1423,7 +1380,6 @@ public class MainActivity extends AppCompatActivity {
                 if(flag_player==1){
                     Timer.cancel();
                 }
-                System.out.println("flag player: " + flag_player);
                 if(flag_player==2){
 
                     alertDialogBuilder.setMessage("GAME OVER\nP1: " + playerPoints + "\nP2: " +cpuPoints +"\n\nHighscore: \n1: " +first + "\n2: " + second + "\n3: "+ third);
@@ -1482,7 +1438,6 @@ public class MainActivity extends AppCompatActivity {
                 if(flag_player==1){
                     Timer.cancel();
                 }
-                System.out.println("flag player: " + flag_player);
                 if(flag_player==2){
                     alertDialogBuilder.setMessage("GAME OVER\nP1: " + playerPoints + "\nP2: " +cpuPoints+ "\nHighscore: \n1: " +first + "\n2: " + second + "\n3: "+ third);
                 }
@@ -1550,14 +1505,14 @@ public class MainActivity extends AppCompatActivity {
             if(flag_topic==1){
                 image101 = R.drawable.banana1;
                 image102 = R.drawable.apple11;
-                image103 = R.drawable.blueberry1;
+                image103 = R.drawable.blackberry1;
                 image104 = R.drawable.strawberries1;
                 image105 = R.drawable.blueberry1;
                 image106 = R.drawable.apple21;
 
                 image201= R.drawable.banana1;
                 image202 = R.drawable.apple12;
-                image203 = R.drawable.blueberry2;
+                image203 = R.drawable.blackberry2;
                 image204 = R.drawable.strawberries2;
                 image205 = R.drawable.blueberry2;
                 image206 = R.drawable.apple22;
@@ -1672,7 +1627,6 @@ public class MainActivity extends AppCompatActivity {
         }
         timeLeftText+=seconds;
          countdownText.setText(timeLeftText);
-        //System.out.println("Timer wird ausgeführt");
 
         if(minutes==0 && seconds==0){
             AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainActivity.this);
