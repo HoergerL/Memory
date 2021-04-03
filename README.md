@@ -1,13 +1,13 @@
 # Memory App
 
-#### created in June 2019
+#### Created in June 2019
 
 This Memory works like the known game. There are shuffled cards laying face down on the table. The task is to collect as much matching pairs of cards as possible. 
 
 
 <p> &nbsp </p>
 
-## how it works
+## How it works
 
 There are different settings where the user can choose out of:
 <p> &nbsp </p>
@@ -34,7 +34,7 @@ Additionally there is a highscore for singleplayer, which is safed in a SharedPr
 
 <p> &nbsp </p>
 
-## a few impressions
+## A few impressions
 
 ### MainActivity in singleplayermode:
 <img src="/Screenshots/MainActivity.png" height="400">
