@@ -13,6 +13,9 @@
         android:orientation="horizontal"
         android:layout_weight="1"
         android:weightSum="3">
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"></TextView>
 
         <ImageView
             android:id="@+id/iv_11_easy"
@@ -22,6 +25,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"></TextView>
+
         <ImageView
             android:id="@+id/iv_12_easy"
             android:scaleType="centerInside"
@@ -29,6 +36,10 @@
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"></TextView>
+
         <ImageView
             android:id="@+id/iv_13_easy"
             android:scaleType="centerInside"
@@ -36,6 +47,10 @@
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"></TextView>
 
     </LinearLayout>
 
@@ -45,6 +60,10 @@
         android:orientation="horizontal"
         android:layout_weight="1"
         android:weightSum="3">
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"></TextView>
+
 
         <ImageView
             android:id="@+id/iv_21_easy"
@@ -53,6 +72,9 @@
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"></TextView>
 
         <ImageView
             android:id="@+id/iv_22_easy"
@@ -61,6 +83,10 @@
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"></TextView>
+
         <ImageView
             android:id="@+id/iv_23_easy"
             android:scaleType="centerInside"
@@ -69,6 +95,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"></TextView>
     </LinearLayout>
 
 
