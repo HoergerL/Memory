@@ -2,7 +2,7 @@
 
 #### Created in June 2019
 
-The app implements a simple game of Memory where the player has to find matching pairs. There are shuffled cards laying face down on the table. The task is to collect as many matching pairs of cards as possible. 
+The app implements a simple game of Memory where the player has to find matching pairs. There are shuffled cards laying face down on the table. The task is to collect as many matching pairs of cards as possible. You can choose between three difficulties and three topics. You can play it in singleplayer mode against a timer or in multiplayer mode against another person. 
 
 
 <p> &nbsp </p>
